@@ -1,0 +1,38 @@
+html{
+	background-color: dimgray;
+}
+
+body{
+	font-family: Arial;
+}
+
+hr{
+	color: dimgray;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	margin: 0;
+	color: white;
+}
+
+ul{
+	color: white;
+}
+
+strong{
+	color: black;
+}
+
+a{
+	color: lightgray;
+}
+
+div.box{
+	float: left;
+	width: auto;
+	padding-right: 10px;
+}
